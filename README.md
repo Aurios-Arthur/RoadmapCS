@@ -67,7 +67,7 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - *Escalação de Privilégio*
 
     > 💬 **Comentário Pessoal**:
-   > "Para esta etapa específica, recomendo um curso GRATUITO que oferece CERTIFICAÇÃO, com laboratórios práticos de alta qualidade e uma didática simples e eficaz. Confira o curso no seguinte link: [Introdução ao Hacking e Pentest](https://solyd.com.br/cursos/introducao-ao-hacking-e-pentest-2/)."
+    > "Para esta etapa específica, recomendo um curso GRATUITO que oferece CERTIFICAÇÃO, com laboratórios práticos de alta qualidade e uma didática simples e eficaz. Confira o curso no seguinte link: [Introdução ao Hacking e Pentest](https://solyd.com.br/cursos/introducao-ao-hacking-e-pentest-2/)."
  ---
 
 ### 📚 Materiais de Estudo
