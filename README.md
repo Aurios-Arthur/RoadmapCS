@@ -17,7 +17,7 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
   **Por que estudar a fundo Sistemas Operacionais?**
   
-   -> Dominar sistemas operacionais é fundamental para entender como funcionam as vulnerabilidades e como explorá-las. Conhecer o funcionamento interno de Linux e Windows permite que você realize pentests mais eficazes e identifique falhas que podem não ser visíveis à primeira vista.
+   Dominar sistemas operacionais é fundamental para entender como funcionam as vulnerabilidades e como explorá-las. Conhecer o funcionamento interno de Linux e Windows permite que você realize pentests mais eficazes e identifique falhas que podem não ser visíveis à primeira vista.
 
   - *Linux*
   - *Windows*
@@ -29,7 +29,7 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
   **Por que estudar a fundo Redes?**
 
-  -> O conhecimento em redes é fundamental para a segurança cibernética, pois permite entender como os dados se movem e como as vulnerabilidades podem ser exploradas. Um entendimento sólido das redes ajuda na identificação de falhas de segurança, na análise de tráfego e na implementação de medidas de proteção eficazes.
+  O conhecimento em redes é fundamental para a segurança cibernética, pois permite entender como os dados se movem e como as vulnerabilidades podem ser exploradas. Um entendimento sólido das redes ajuda na identificação de falhas de segurança, na análise de tráfego e na implementação de medidas de proteção eficazes.
   
   - *Modelos OSI e TCP/IP*
   - *Protocolos (TCP, UDP, DNS, HTTP, HTTPS)*
