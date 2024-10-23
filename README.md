@@ -2,7 +2,7 @@
 
 ## 🛡️ Roadmap Pessoal de Iniciação em Pentest
 
-![](images/cadeado-seguranca-1060x655.jpg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Fcadeado-digital-na-frente-de-um-computador-portatil-como-conceito-de-seguranca-cibernetica-e-iso-de-protecao-de-dados_777271-22030.jpg&f=1&nofb=1&ipt=8235a96387f73629b572d9f99e4b8ad8cc296c4215302b5ca1e174c226440ebc&ipo=images)
+![](images/cadeado-seguranca-1060x655.jpg(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Fcadeado-digital-na-frente-de-um-computador-portatil-como-conceito-de-seguranca-cibernetica-e-iso-de-protecao-de-dados_777271-22030.jpg&f=1&nofb=1&ipt=8235a96387f73629b572d9f99e4b8ad8cc296c4215302b5ca1e174c226440ebc&ipo=images](https://img.freepik.com/fotos-premium/cadeado-com-fechadura-na-seguranca-de-dados-no-circuito-conceito-digital-de-seguranca-moderna_505353-656.jpg))
 
 ## 🌐 Por que estou criando este roadmap?
 
