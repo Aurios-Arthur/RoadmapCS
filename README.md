@@ -2,7 +2,7 @@
 
 ## 🛡️ Roadmap Pessoal de Iniciação em Pentest
 
-![images/cadeado-seguranca-1060x655.jpg]
+![ImagemCadeado][images/cadeado-seguranca-1060x655.jpg]
 
 ## 🌐 Por que estou criando este roadmap?
 
