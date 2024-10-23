@@ -20,8 +20,8 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - *Linux*
   - *Windows*
 
-> 💬 **Comentário Pessoal**:
-> "Decidi começar pelo famoso Kali Linux. Escolhi ele porque já vem com várias ferramentas prontas para pentest, o que facilita bastante o aprendizado inicial. Além disso, nunca tinha usado outra distro Linux, então foi uma ótima oportunidade para aprender. Recomendo estudar a fundo tanto Linux quanto Windows, já que dominar os dois sistemas é fundamental. Meu foco foi no uso do terminal, permissões, processos, logs e pacotes — tudo essencial para entender como os sistemas funcionam por trás das cenas."
+   > 💬 **Comentário Pessoal**:
+   > "Decidi começar pelo famoso Kali Linux. Escolhi ele porque já vem com várias ferramentas prontas para pentest, o que facilita bastante  o aprendizado inicial. Além disso, nunca tinha usado outra distro Linux, então foi uma ótima oportunidade para aprender. Recomendo estudar a fundo tanto Linux quanto Windows, já que dominar os dois sistemas é fundamental. Meu foco foi no uso do terminal, permissões, processos, logs e pacotes — tudo essencial para entender como os sistemas funcionam por trás das cenas."
 
 - **REDES**:
   - *Modelos OSI e TCP/IP*
