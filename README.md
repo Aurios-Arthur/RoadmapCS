@@ -30,7 +30,7 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - *WHOIS e Shodan*
 
 > 💬 **Comentário Pessoal**:
-> "Usei WHOIS para descobrir informações públicas sobre domínios e IPs. Shodan é uma ferramenta poderosa para encontrar dispositivos mal configurados, algo que eu não imaginava até começar a explorar."
+> "A ferramenta WHOIS é de extrema importância. Usei-a para obter informações públicas sobre domínios e IPs. É extremamente simples de usar, mas seu impacto na coleta de dados é significativo. Essa ferramenta é fundamental para o reconhecimento no pentest."
 
 - **Reconhecimento Ativo**
   - *Nmap*
