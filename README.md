@@ -36,7 +36,7 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
 > 💬 **Comentário Pessoal**:
 > "O conhecimento em redes tem sido extremamente útil para mim. Estudei através de livros e alguns vídeos, além do que já aprendi em experiências anteriores em empresas. É fundamental entender os Modelos OSI e TCP/IP, bem como a funcionalidade de cada protocolo. No pentest, usamos esse conhecimento para identificar falhas em servidores e outros dispositivos, tornando-se uma habilidade indispensável."
----
+
 
 
 - **PROGRAMAÇÃO**:
