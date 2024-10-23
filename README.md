@@ -1,3 +1,13 @@
+## 🌐 Por que estou criando este roadmap?
+
+A área de **cybersegurança**, especialmente o **pentest**, pode ser bastante desafiadora para quem está começando. Ao contrário de outras áreas da tecnologia, onde há uma abundância de cursos e tutoriais acessíveis, aprender pentest muitas vezes envolve a busca por informações dispersas e de difícil acesso.
+
+Estou criando este **roadmap** para compartilhar minha jornada de aprendizado, organizar os principais tópicos e ajudar outras pessoas que estão iniciando nesse campo. Além disso, ao longo do caminho, estou acrescentando **comentários pessoais** sobre as ferramentas e conceitos que estudei, explicando por que escolhi estudá-los e como eles contribuíram para meu desenvolvimento na área.
+
+Acredito que compartilhar conhecimento é essencial, especialmente em uma área tão complexa como esta, onde as barreiras de entrada podem ser altas. Espero que este roadmap sirva como uma referência útil para iniciantes, assim como está sendo para mim.
+
+
+
 ## 🛡️ Roadmap Pessoal de Iniciação em Pentest
 
 ### 1. Fundamentos Essenciais
