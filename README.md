@@ -1,3 +1,7 @@
+
+
+## 🛡️ Roadmap Pessoal de Iniciação em Pentest
+
 ## 🌐 Por que estou criando este roadmap?
 
 A área de **cybersegurança**, especialmente o **pentest**, pode ser bastante desafiadora para quem está começando. Ao contrário de outras áreas da tecnologia, onde há uma abundância de cursos e tutoriais acessíveis, aprender pentest muitas vezes envolve a busca por informações dispersas e de difícil acesso.
@@ -5,8 +9,6 @@ A área de **cybersegurança**, especialmente o **pentest**, pode ser bastante d
 Estou criando este **roadmap** para compartilhar minha jornada de aprendizado, organizar os principais tópicos e ajudar outras pessoas que estão iniciando nesse campo. Além disso, ao longo do caminho, estou acrescentando **comentários pessoais** sobre as ferramentas e conceitos que estudei, explicando por que escolhi estudá-los e como eles contribuíram para meu desenvolvimento na área.
 
 Acredito que compartilhar conhecimento é essencial, especialmente em uma área tão complexa como esta, onde as barreiras de entrada podem ser altas. Espero que este roadmap sirva como uma referência útil para iniciantes, assim como está sendo para mim.
-
-## 🛡️ Roadmap Pessoal de Iniciação em Pentest
 
 ### 1. FUNDAMENTOS ESSENCIAIS
 - **SISTEMAS OPERACIONAIS**: 
@@ -20,7 +22,8 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
 > 💬 **Comentário Pessoal**:
 > "Decidi começar pelo famoso Kali Linux. Escolhi ele porque já vem com várias ferramentas prontas para pentest, o que facilita bastante o aprendizado inicial. Além disso, nunca tinha usado outra distro Linux, então foi uma ótima oportunidade para aprender. Recomendo estudar a fundo tanto Linux quanto Windows, já que dominar os dois sistemas é fundamental. Meu foco foi no uso do terminal, permissões, processos, logs e pacotes — tudo essencial para entender como os sistemas funcionam por trás das cenas."
-- **Redes**:
+
+- **REDES**:
   - *Modelos OSI e TCP/IP*
   - *Protocolos (TCP, UDP, DNS, HTTP, HTTPS)*
 
@@ -40,4 +43,11 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - *Netcat*
 
 > 💬 **Comentário Pessoal**:
-> "Praticar o uso de Nmap foi desafiador no começo, mas aos poucos fui entendendo como ele pode revelar informações valiosas sobre um alvo, como portas a
+> "Praticar o uso de Nmap foi desafiador no começo, mas aos poucos fui entendendo como ele pode revelar informações valiosas sobre um alvo, como portas abertas e serviços ativos."
+
+---
+
+### 📚 Estudo Contínuo
+
+> 💬 **Comentário Pessoal**:
+> "Estou sempre buscando novos recursos. O canal do IppSec no YouTube foi um grande achado, com explicações claras e desafios do Hack The Box resolvidos na prática."
