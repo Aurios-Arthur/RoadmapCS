@@ -54,6 +54,20 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
 ---
 
+- **PROGRAMAÇÃO**:
+
+  **Por que aprender a programar?**
+
+  Embora já tenhamos ferramentas úteis, especialmente no sistema KALI, é fundamental aprender pelo menos duas linguagens de programação: uma de baixo nível e uma de alto nível. Isso é importante para desenvolver funcionalidades específicas ou executar comandos e shells.
+  
+  - *Linguagens de baixo nivel (C, Assembly, C++)*
+  - *Linguagens de alto nivel (Python,java)*
+
+> 💬 **Comentário Pessoal**:
+> "Durante minha faculdade, aprendemos C++ como linguagem obrigatória. Optei por essa linguagem para o nível baixo, pois já tinha facilidade com ela. Para o nível alto, decidi aprender Python. Embora tenha estado resistente no início, acabei me apaixonando pela linguagem e implementei alguns projetos na empresa onde trabalho. Minha recomendação é seguir em frente com Python, pois é uma linguagem fácil de usar, com diversas bibliotecas prontas que facilitam o desenvolvimento."
+---
+
+
 ### 📚 Estudo Contínuo
 
 > 💬 **Comentário Pessoal**:
