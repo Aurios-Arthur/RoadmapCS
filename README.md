@@ -53,7 +53,25 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 ---
 
 
-### 📚 Estudo Contínuo
+### 📚 Materiais de Estudo
 
 > 💬 **Comentário Pessoal**:
-> "Estou sempre buscando novos recursos. O canal do IppSec no YouTube foi um grande achado, com explicações claras e desafios do Hack The Box resolvidos na prática."
+> "Estou sempre em busca de novos recursos que possam enriquecer meu aprendizado. Um dos meus grandes achados foi o canal do IppSec no YouTube, que oferece explicações claras e desafios do Hack The Box resolvidos na prática. Além disso, aqui estão algumas recomendações de materiais que considero valiosos para quem está começando no pentest:"
+
+- **Livros**:
+  - "The Web Application Hacker's Handbook" – Uma leitura essencial para entender vulnerabilidades em aplicações web.
+  - "Penetration Testing: A Hands-On Introduction to Hacking" – Um guia prático para iniciantes.
+
+- **Cursos Online**:
+  - **TryHackMe** – Oferece uma abordagem interativa e prática para aprender pentesting.
+  - **Cybrary** – Disponibiliza diversos cursos sobre segurança cibernética.
+
+- **Plataformas de Prática**:
+  - **Hack The Box** – Uma excelente plataforma para colocar em prática suas habilidades de pentest em ambientes controlados.
+  - **VulnHub** – Fornece máquinas virtuais vulneráveis para praticar em casa.
+  - **TryHackme** - Uma plataforma excelente com varios aprendizados, desde o 0 ao avançado.
+  - 
+- **Comunidades e Fóruns**:
+  - **Reddit** (r/netsec e r/hacking) – Uma ótima forma de se conectar com outros profissionais e ficar atualizado sobre o que está acontecendo na área.
+  - **Discord** – Muitos servidores focados em pentesting onde você pode trocar conhecimentos e dicas.Fica aqui um que me ajudou bastante com algumas duvidas: https://boitatech.com/
+
