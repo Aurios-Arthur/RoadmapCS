@@ -15,7 +15,7 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
   **Por que estudar a fundo Sistemas Operacionais?**
   
-  > "Dominar sistemas operacionais é fundamental para entender como funcionam as vulnerabilidades e como explorá-las. Conhecer o funcionamento interno de Linux e Windows permite que você realize pentests mais eficazes e identifique falhas que podem não ser visíveis à primeira vista."
+   -> "Dominar sistemas operacionais é fundamental para entender como funcionam as vulnerabilidades e como explorá-las. Conhecer o funcionamento interno de Linux e Windows permite que você realize pentests mais eficazes e identifique falhas que podem não ser visíveis à primeira vista."
 
   - *Linux*
   - *Windows*
