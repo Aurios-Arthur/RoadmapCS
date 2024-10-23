@@ -29,7 +29,7 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
   **Por que estudar a fundo Redes?**
 
-  -> "O conhecimento em redes é fundamental para a segurança cibernética, pois permite entender como os dados se movem e como as vulnerabilidades podem ser exploradas. Um entendimento sólido das redes ajuda na identificação de falhas de segurança, na análise de tráfego e na implementação de medidas de proteção eficazes."
+  -> O conhecimento em redes é fundamental para a segurança cibernética, pois permite entender como os dados se movem e como as vulnerabilidades podem ser exploradas. Um entendimento sólido das redes ajuda na identificação de falhas de segurança, na análise de tráfego e na implementação de medidas de proteção eficazes.
   
   - *Modelos OSI e TCP/IP*
   - *Protocolos (TCP, UDP, DNS, HTTP, HTTPS)*
