@@ -87,8 +87,8 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - **Hack The Box** – Uma excelente plataforma para colocar em prática suas habilidades de pentest em ambientes controlados.
   - **VulnHub** – Fornece máquinas virtuais vulneráveis para praticar em casa.
   - **TryHackme** - Uma plataforma excelente com varios aprendizados, desde o 0 ao avançado.
-  - 
+    
 - **Comunidades e Fóruns**:
   - **Reddit** (r/netsec e r/hacking) – Uma ótima forma de se conectar com outros profissionais e ficar atualizado sobre o que está acontecendo na área.
-  - **Discord** – Muitos servidores focados em pentesting onde você pode trocar conhecimentos e dicas.Fica aqui um que me ajudou bastante com algumas duvidas: https://boitatech.com/
+  - **Discord** – Muitos servidores focados em pentesting onde você pode trocar conhecimentos e dicas.Fica aqui um que me ajudou bastante com algumas duvidas: [Boitatech](https://boitatech.com/)
 
