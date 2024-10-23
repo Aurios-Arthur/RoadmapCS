@@ -26,6 +26,11 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
    > "Decidi começar pelo famoso Kali Linux. Escolhi ele porque já vem com várias ferramentas prontas para pentest, o que facilita bastante  o aprendizado inicial. Além disso, nunca tinha usado outra distro Linux, então foi uma ótima oportunidade para aprender. Recomendo estudar a fundo tanto Linux quanto Windows, já que dominar os dois sistemas é fundamental. Meu foco foi no uso do terminal, permissões, processos, logs e pacotes — tudo essencial para entender como os sistemas funcionam por trás das cenas."
 
 - **REDES**:
+
+  **Por que estudar a fundo Redes?**
+
+  -> "O conhecimento em redes é fundamental para a segurança cibernética, pois permite entender como os dados se movem e como as vulnerabilidades podem ser exploradas. Um entendimento sólido das redes ajuda na identificação de falhas de segurança, na análise de tráfego e na implementação de medidas de proteção eficazes."
+  
   - *Modelos OSI e TCP/IP*
   - *Protocolos (TCP, UDP, DNS, HTTP, HTTPS)*
 
