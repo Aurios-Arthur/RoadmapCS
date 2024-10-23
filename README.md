@@ -34,8 +34,8 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - *Modelos OSI e TCP/IP*
   - *Protocolos (TCP, UDP, DNS, HTTP, HTTPS)*
 
-> 💬 **Comentário Pessoal**:
-> "O conhecimento em redes tem sido extremamente útil para mim. Estudei através de livros e alguns vídeos, além do que já aprendi em experiências anteriores em empresas. É fundamental entender os Modelos OSI e TCP/IP, bem como a funcionalidade de cada protocolo. No pentest, usamos esse conhecimento para identificar falhas em servidores e outros dispositivos, tornando-se uma habilidade indispensável."
+   > 💬 **Comentário Pessoal**:
+   > "O conhecimento em redes tem sido extremamente útil para mim. Estudei através de livros e alguns vídeos, além do que já aprendi em experiências anteriores em empresas. É fundamental entender os Modelos OSI e TCP/IP, bem como a funcionalidade de cada protocolo. No pentest, usamos esse conhecimento para identificar falhas em servidores e outros dispositivos, tornando-se uma habilidade indispensável."
 
 
 
@@ -48,8 +48,8 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - *Linguagens de baixo nivel (C, Assembly, C++)*
   - *Linguagens de alto nivel (Python,java)*
 
-> 💬 **Comentário Pessoal**:
-> "Durante minha faculdade, aprendemos C++ como linguagem obrigatória. Optei por essa linguagem para o nível baixo, pois já tinha facilidade com ela. Para o nível alto, decidi aprender Python. Embora tenha estado resistente no início, acabei me apaixonando pela linguagem e implementei alguns projetos na empresa onde trabalho. Minha recomendação é seguir em frente com Python, pois é uma linguagem fácil de usar, com diversas bibliotecas prontas que facilitam o desenvolvimento."
+   > 💬 **Comentário Pessoal**:
+   > "Durante minha faculdade, aprendemos C++ como linguagem obrigatória. Optei por essa linguagem para o nível baixo, pois já tinha facilidade com ela. Para o nível alto, decidi aprender Python. Embora tenha estado resistente no início, acabei me apaixonando pela linguagem e implementei alguns projetos na empresa onde trabalho. Minha recomendação é seguir em frente com Python, pois é uma linguagem fácil de usar, com diversas bibliotecas prontas que facilitam o desenvolvimento."
 ---
 
 
