@@ -2,6 +2,8 @@
 
 ## 🛡️ Roadmap Pessoal de Iniciação em Pentest
 
+![images/cadeado-seguranca-1060x655.jpg]
+
 ## 🌐 Por que estou criando este roadmap?
 
 A área de **cybersegurança**, especialmente o **pentest**, pode ser bastante desafiadora para quem está começando. Ao contrário de outras áreas da tecnologia, onde há uma abundância de cursos e tutoriais acessíveis, aprender pentest muitas vezes envolve a busca por informações dispersas e de difícil acesso.
