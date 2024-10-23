@@ -12,12 +12,11 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
 ### 1. Fundamentos Essenciais
 - **Sistemas Operacionais**: 
-  - *Linux (Kali/Parrot OS)*
+  - *Linux*
   - *Windows*
 
 > 💬 **Comentário Pessoal**:
-> "Comecei com Kali Linux porque ele vem com várias ferramentas pré-instaladas para pentest, o que facilita o aprendizado. Me forcei a usar mais o terminal, já que é uma habilidade crucial."
-
+> "Decidi começar pelo famoso Kali Linux. Escolhi ele porque já vem com várias ferramentas prontas para pentest, o que facilita bastante o aprendizado inicial. Além disso, nunca tinha usado outra distro Linux, então foi uma ótima oportunidade para aprender. Recomendo estudar a fundo tanto Linux quanto Windows, já que dominar os dois sistemas é fundamental. Meu foco foi no uso do terminal, permissões, processos, logs e pacotes — tudo essencial para entender como os sistemas funcionam por trás das cenas."
 - **Redes**:
   - *Modelos OSI e TCP/IP*
   - *Protocolos (TCP, UDP, DNS, HTTP, HTTPS)*
