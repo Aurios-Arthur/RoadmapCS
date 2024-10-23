@@ -38,21 +38,6 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 > "O conhecimento em redes tem sido extremamente útil para mim. Estudei através de livros e alguns vídeos, além do que já aprendi em experiências anteriores em empresas. É fundamental entender os Modelos OSI e TCP/IP, bem como a funcionalidade de cada protocolo. No pentest, usamos esse conhecimento para identificar falhas em servidores e outros dispositivos, tornando-se uma habilidade indispensável."
 ---
 
-### 2. Reconhecimento e Mapeamento (Footprinting)
-- **Reconhecimento Passivo**
-  - *WHOIS e Shodan*
-
-> 💬 **Comentário Pessoal**:
-> "A ferramenta WHOIS é de extrema importância. Usei-a para obter informações públicas sobre domínios e IPs. É extremamente simples de usar, mas seu impacto na coleta de dados é significativo. Essa ferramenta é fundamental para o reconhecimento no pentest."
-
-- **Reconhecimento Ativo**
-  - *Nmap*
-  - *Netcat*
-
-> 💬 **Comentário Pessoal**:
-> "Praticar o uso de Nmap foi desafiador no começo, mas aos poucos fui entendendo como ele pode revelar informações valiosas sobre um alvo, como portas abertas e serviços ativos."
-
----
 
 - **PROGRAMAÇÃO**:
 
