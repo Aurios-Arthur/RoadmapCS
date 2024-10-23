@@ -52,6 +52,20 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
    > "Durante minha faculdade, aprendemos C++ como linguagem obrigatória. Optei por essa linguagem para o nível baixo, pois já tinha facilidade com ela. Para o nível alto, decidi aprender Python. Embora tenha estado resistente no início, acabei me apaixonando pela linguagem e implementei alguns projetos na empresa onde trabalho. Minha recomendação é seguir em frente com Python, pois é uma linguagem fácil de usar, com diversas bibliotecas prontas que facilitam o desenvolvimento."
 ---
 
+### 2. INTRODUÇÃO AO PENTEST
+- **FUNDAMENTOS**: 
+
+  **Por que estudar os Fundamentos?**
+  
+    Assim como em qualquer área da vida, uma base sólida é essencial para um progresso duradouro. Precisamos compreender profundamente os princípios do pentest, que incluem:
+  
+  - *Coleta de Informações*
+  - *Exploração e Ataques*
+  - *Hacking Web*
+  - *Infraestrutura de Rede*
+  - *Shells e Técnicas Avançadas*
+  - *Escalação de Privilégio*
+ ---
 
 ### 📚 Materiais de Estudo
 
