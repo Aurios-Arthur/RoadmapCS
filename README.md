@@ -92,3 +92,8 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
   - **Reddit** (r/netsec e r/hacking) – Uma ótima forma de se conectar com outros profissionais e ficar atualizado sobre o que está acontecendo na área.
   - **Discord** – Muitos servidores focados em pentesting onde você pode trocar conhecimentos e dicas.Fica aqui um que me ajudou bastante com algumas duvidas: [Boitatech](https://boitatech.com/)
 
+
+### 🔧 Ferramentas 
+  -[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
+  -[Zphisher](https://github.com/htr-tech/zphisher)
+  -
