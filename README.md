@@ -94,6 +94,6 @@ Acredito que compartilhar conhecimento é essencial, especialmente em uma área 
 
 
 ### 🔧 Ferramentas 
-  -[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
-  -[Zphisher](https://github.com/htr-tech/zphisher)
-  -
+  -*[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker).*
+  -*[Zphisher](https://github.com/htr-tech/zphisher).*
+  
